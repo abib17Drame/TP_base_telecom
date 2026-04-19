@@ -1,0 +1,24 @@
+# Environnements virtuels
+.venv/
+env/
+venv/
+ENV/
+
+# Fichiers d'environnement
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.*.swp
+
+# Fichiers audio générés
+*.wav
+
+# Fichiers graphiques générés
+*.png
+comparaison.png
+
+# Dossier de sortie
+sortie/
